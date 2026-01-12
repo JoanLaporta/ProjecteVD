@@ -1,4 +1,4 @@
-# Moneyball al Futbol: TDR 2026
+# Visualització de dades al Futbol: TDR 2026
 
 Aquest és el repositori amb el codi i les visualitzacions del meu Treball de Recerca.
 
